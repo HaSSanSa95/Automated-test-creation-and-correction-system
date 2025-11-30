@@ -1,0 +1,1646 @@
+{
+  "data": {
+    "stage": "stage 1",
+    "subject_id": 1,
+    "subject_name": "حاسوب",
+    "exam_info": {
+      "id": 1
+    },
+    "n_of_Q": 1,
+    "model_type": "Group",
+    "number_of_groups": "4",
+    "number_of_questions": 60,
+    "users": [
+      {
+        "id": 1,
+        "name": "زيد حسين محمد",
+        "email": "superadmin@example.com",
+        "user_info": {
+          "deb": "ddeee"
+        },
+        "exam": [
+          {
+            "id": 1,
+            "question_text": {
+              "text": "ما هو اختصار وحدة المعالجة المركزية في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Central Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Central Programming Unit",
+                "files": []
+              },
+              {
+                "text": "Control Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Computer Personal Unit",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": {
+              "text": "أي مما يلي يعتبر جهاز إخراج؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة المفاتيح",
+                "files": []
+              },
+              {
+                "text": "الفأرة",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              },
+              {
+                "text": "الماسح الضوئي",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "question_text": {
+              "text": "ما هي اللغة التي يستخدمها المتصفح لتصميم صفحات الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Python",
+                "files": []
+              },
+              {
+                "text": "Java",
+                "files": []
+              },
+              {
+                "text": "HTML",
+                "files": []
+              },
+              {
+                "text": "C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "question_text": {
+              "text": "أصغر وحدة تخزين بيانات رقمية هي؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "بايت",
+                "files": []
+              },
+              {
+                "text": "كيلوبايت",
+                "files": []
+              },
+              {
+                "text": "بت",
+                "files": []
+              },
+              {
+                "text": "ميجابايت",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "question_text": {
+              "text": "ما هو اختصار شبكة الويب العالمية؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "WWW",
+                "files": []
+              },
+              {
+                "text": "URL",
+                "files": []
+              },
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "IP",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "question_text": {
+              "text": "أي من التالي يعد مثالاً على برنامج جداول بيانات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Adobe Photoshop",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "question_text": {
+              "text": "ما هو البروتوكول المستخدم لإرسال البريد الإلكتروني؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "FTP",
+                "files": []
+              },
+              {
+                "text": "SMTP",
+                "files": []
+              },
+              {
+                "text": "POP3",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "question_text": {
+              "text": "ما هي الذاكرة التي تفقد محتوياتها عند انقطاع الكهرباء؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "الذاكرة المخصصة للقراءة (ROM)",
+                "files": []
+              },
+              {
+                "text": "محرك الأقراص الثابتة (SSD)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "question_text": {
+              "text": "ما هو المكون الذي يقوم بتنفيذ التعليمات في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة الأم (Motherboard)",
+                "files": []
+              },
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة التخزين",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "question_text": {
+              "text": "أي من التالية تُعتبر أنظمة تشغيل؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Windows و Linux و macOS",
+                "files": []
+              },
+              {
+                "text": "Google Chrome و Firefox",
+                "files": []
+              },
+              {
+                "text": "Word و Excel",
+                "files": []
+              },
+              {
+                "text": "Python و C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "question_text": {
+              "text": "ما هي مهمة 'المحول' (Switch) في الشبكات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "ربط شبكات مختلفة",
+                "files": []
+              },
+              {
+                "text": "توجيه الحزم بين الشبكات",
+                "files": []
+              },
+              {
+                "text": "ربط الأجهزة داخل شبكة واحدة",
+                "files": []
+              },
+              {
+                "text": "تضخيم الإشارة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "question_text": {
+              "text": "ما هي الصيغة الأكثر شيوعاً لحفظ الصور على الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "DOCX",
+                "files": []
+              },
+              {
+                "text": "JPEG",
+                "files": []
+              },
+              {
+                "text": "MP4",
+                "files": []
+              },
+              {
+                "text": "PDF",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "question_text": {
+              "text": "ما هو العنصر المسؤول عن عرض الرسوميات ثلاثية الأبعاد؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة معالجة الرسوميات (GPU)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "question_text": {
+              "text": "ما هو التشفير (Encryption)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "تحويل البيانات إلى شكل قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "تحويل البيانات إلى شكل غير قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "ضغط حجم الملفات",
+                "files": []
+              },
+              {
+                "text": "نقل البيانات عبر الشبكة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "question_text": {
+              "text": "أي تطبيق يُستخدم لإنشاء عرض تقديمي (Presentation)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Microsoft Access",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار وحدة المعالجة المركزية في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Central Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Central Programming Unit",
+                "files": []
+              },
+              {
+                "text": "Control Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Computer Personal Unit",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "question_text": {
+              "text": "(مكرر) أي مما يلي يعتبر جهاز إخراج؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة المفاتيح",
+                "files": []
+              },
+              {
+                "text": "الفأرة",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              },
+              {
+                "text": "الماسح الضوئي",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "question_text": {
+              "text": "(مكرر) ما هي اللغة التي يستخدمها المتصفح لتصميم صفحات الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Python",
+                "files": []
+              },
+              {
+                "text": "Java",
+                "files": []
+              },
+              {
+                "text": "HTML",
+                "files": []
+              },
+              {
+                "text": "C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "question_text": {
+              "text": "(مكرر) أصغر وحدة تخزين بيانات رقمية هي؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "بايت",
+                "files": []
+              },
+              {
+                "text": "كيلوبايت",
+                "files": []
+              },
+              {
+                "text": "بت",
+                "files": []
+              },
+              {
+                "text": "ميجابايت",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار شبكة الويب العالمية؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "WWW",
+                "files": []
+              },
+              {
+                "text": "URL",
+                "files": []
+              },
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "IP",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "question_text": {
+              "text": "(مكرر) أي من التالي يعد مثالاً على برنامج جداول بيانات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Adobe Photoshop",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "question_text": {
+              "text": "(مكرر) ما هو البروتوكول المستخدم لإرسال البريد الإلكتروني؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "FTP",
+                "files": []
+              },
+              {
+                "text": "SMTP",
+                "files": []
+              },
+              {
+                "text": "POP3",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "question_text": {
+              "text": "(مكرر) ما هي الذاكرة التي تفقد محتوياتها عند انقطاع الكهرباء؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "الذاكرة المخصصة للقراءة (ROM)",
+                "files": []
+              },
+              {
+                "text": "محرك الأقراص الثابتة (SSD)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "question_text": {
+              "text": "(مكرر) ما هو المكون الذي يقوم بتنفيذ التعليمات في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة الأم (Motherboard)",
+                "files": []
+              },
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة التخزين",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "question_text": {
+              "text": "(مكرر) أي من التالية تُعتبر أنظمة تشغيل؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Windows و Linux و macOS",
+                "files": []
+              },
+              {
+                "text": "Google Chrome و Firefox",
+                "files": []
+              },
+              {
+                "text": "Word و Excel",
+                "files": []
+              },
+              {
+                "text": "Python و C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "question_text": {
+              "text": "(مكرر) ما هي مهمة 'المحول' (Switch) في الشبكات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "ربط شبكات مختلفة",
+                "files": []
+              },
+              {
+                "text": "توجيه الحزم بين الشبكات",
+                "files": []
+              },
+              {
+                "text": "ربط الأجهزة داخل شبكة واحدة",
+                "files": []
+              },
+              {
+                "text": "تضخيم الإشارة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "question_text": {
+              "text": "(مكرر) ما هي الصيغة الأكثر شيوعاً لحفظ الصور على الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "DOCX",
+                "files": []
+              },
+              {
+                "text": "JPEG",
+                "files": []
+              },
+              {
+                "text": "MP4",
+                "files": []
+              },
+              {
+                "text": "PDF",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "question_text": {
+              "text": "(مكرر) ما هو العنصر المسؤول عن عرض الرسوميات ثلاثية الأبعاد؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة معالجة الرسوميات (GPU)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "question_text": {
+              "text": "(مكرر) ما هو التشفير (Encryption)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "تحويل البيانات إلى شكل قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "تحويل البيانات إلى شكل غير قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "ضغط حجم الملفات",
+                "files": []
+              },
+              {
+                "text": "نقل البيانات عبر الشبكة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "question_text": {
+              "text": "(مكرر) أي تطبيق يُستخدم لإنشاء عرض تقديمي (Presentation)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Microsoft Access",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار وحدة المعالجة المركزية في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Central Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Central Programming Unit",
+                "files": []
+              },
+              {
+                "text": "Control Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Computer Personal Unit",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "question_text": {
+              "text": "(مكرر) أي مما يلي يعتبر جهاز إخراج؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة المفاتيح",
+                "files": []
+              },
+              {
+                "text": "الفأرة",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              },
+              {
+                "text": "الماسح الضوئي",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "question_text": {
+              "text": "(مكرر) ما هي اللغة التي يستخدمها المتصفح لتصميم صفحات الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Python",
+                "files": []
+              },
+              {
+                "text": "Java",
+                "files": []
+              },
+              {
+                "text": "HTML",
+                "files": []
+              },
+              {
+                "text": "C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "question_text": {
+              "text": "(مكرر) أصغر وحدة تخزين بيانات رقمية هي؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "بايت",
+                "files": []
+              },
+              {
+                "text": "كيلوبايت",
+                "files": []
+              },
+              {
+                "text": "بت",
+                "files": []
+              },
+              {
+                "text": "ميجابايت",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار شبكة الويب العالمية؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "WWW",
+                "files": []
+              },
+              {
+                "text": "URL",
+                "files": []
+              },
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "IP",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "question_text": {
+              "text": "(مكرر) أي من التالي يعد مثالاً على برنامج جداول بيانات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Adobe Photoshop",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "question_text": {
+              "text": "(مكرر) ما هو البروتوكول المستخدم لإرسال البريد الإلكتروني؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "FTP",
+                "files": []
+              },
+              {
+                "text": "SMTP",
+                "files": []
+              },
+              {
+                "text": "POP3",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "question_text": {
+              "text": "(مكرر) ما هي الذاكرة التي تفقد محتوياتها عند انقطاع الكهرباء؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "الذاكرة المخصصة للقراءة (ROM)",
+                "files": []
+              },
+              {
+                "text": "محرك الأقراص الثابتة (SSD)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "question_text": {
+              "text": "(مكرر) ما هو المكون الذي يقوم بتنفيذ التعليمات في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة الأم (Motherboard)",
+                "files": []
+              },
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة التخزين",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "question_text": {
+              "text": "(مكرر) أي من التالية تُعتبر أنظمة تشغيل؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Windows و Linux و macOS",
+                "files": []
+              },
+              {
+                "text": "Google Chrome و Firefox",
+                "files": []
+              },
+              {
+                "text": "Word و Excel",
+                "files": []
+              },
+              {
+                "text": "Python و C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "question_text": {
+              "text": "(مكرر) ما هي مهمة 'المحول' (Switch) في الشبكات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "ربط شبكات مختلفة",
+                "files": []
+              },
+              {
+                "text": "توجيه الحزم بين الشبكات",
+                "files": []
+              },
+              {
+                "text": "ربط الأجهزة داخل شبكة واحدة",
+                "files": []
+              },
+              {
+                "text": "تضخيم الإشارة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "question_text": {
+              "text": "(مكرر) ما هي الصيغة الأكثر شيوعاً لحفظ الصور على الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "DOCX",
+                "files": []
+              },
+              {
+                "text": "JPEG",
+                "files": []
+              },
+              {
+                "text": "MP4",
+                "files": []
+              },
+              {
+                "text": "PDF",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "question_text": {
+              "text": "(مكرر) ما هو العنصر المسؤول عن عرض الرسوميات ثلاثية الأبعاد؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة معالجة الرسوميات (GPU)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "question_text": {
+              "text": "(مكرر) ما هو التشفير (Encryption)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "تحويل البيانات إلى شكل قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "تحويل البيانات إلى شكل غير قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "ضغط حجم الملفات",
+                "files": []
+              },
+              {
+                "text": "نقل البيانات عبر الشبكة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "question_text": {
+              "text": "(مكرر) أي تطبيق يُستخدم لإنشاء عرض تقديمي (Presentation)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Microsoft Access",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار وحدة المعالجة المركزية في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Central Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Central Programming Unit",
+                "files": []
+              },
+              {
+                "text": "Control Processing Unit",
+                "files": []
+              },
+              {
+                "text": "Computer Personal Unit",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "question_text": {
+              "text": "(مكرر) أي مما يلي يعتبر جهاز إخراج؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة المفاتيح",
+                "files": []
+              },
+              {
+                "text": "الفأرة",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              },
+              {
+                "text": "الماسح الضوئي",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "question_text": {
+              "text": "(مكرر) ما هي اللغة التي يستخدمها المتصفح لتصميم صفحات الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Python",
+                "files": []
+              },
+              {
+                "text": "Java",
+                "files": []
+              },
+              {
+                "text": "HTML",
+                "files": []
+              },
+              {
+                "text": "C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "question_text": {
+              "text": "(مكرر) أصغر وحدة تخزين بيانات رقمية هي؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "بايت",
+                "files": []
+              },
+              {
+                "text": "كيلوبايت",
+                "files": []
+              },
+              {
+                "text": "بت",
+                "files": []
+              },
+              {
+                "text": "ميجابايت",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "question_text": {
+              "text": "(مكرر) ما هو اختصار شبكة الويب العالمية؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "WWW",
+                "files": []
+              },
+              {
+                "text": "URL",
+                "files": []
+              },
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "IP",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "question_text": {
+              "text": "(مكرر) أي من التالي يعد مثالاً على برنامج جداول بيانات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Adobe Photoshop",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "question_text": {
+              "text": "(مكرر) ما هو البروتوكول المستخدم لإرسال البريد الإلكتروني؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "HTTP",
+                "files": []
+              },
+              {
+                "text": "FTP",
+                "files": []
+              },
+              {
+                "text": "SMTP",
+                "files": []
+              },
+              {
+                "text": "POP3",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "question_text": {
+              "text": "(مكرر) ما هي الذاكرة التي تفقد محتوياتها عند انقطاع الكهرباء؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "الذاكرة المخصصة للقراءة (ROM)",
+                "files": []
+              },
+              {
+                "text": "محرك الأقراص الثابتة (SSD)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "question_text": {
+              "text": "(مكرر) ما هو المكون الذي يقوم بتنفيذ التعليمات في الحاسوب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "لوحة الأم (Motherboard)",
+                "files": []
+              },
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة التخزين",
+                "files": []
+              },
+              {
+                "text": "الشاشة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "question_text": {
+              "text": "(مكرر) أي من التالية تُعتبر أنظمة تشغيل؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Windows و Linux و macOS",
+                "files": []
+              },
+              {
+                "text": "Google Chrome و Firefox",
+                "files": []
+              },
+              {
+                "text": "Word و Excel",
+                "files": []
+              },
+              {
+                "text": "Python و C++",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "question_text": {
+              "text": "(مكرر) ما هي مهمة 'المحول' (Switch) في الشبكات؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "ربط شبكات مختلفة",
+                "files": []
+              },
+              {
+                "text": "توجيه الحزم بين الشبكات",
+                "files": []
+              },
+              {
+                "text": "ربط الأجهزة داخل شبكة واحدة",
+                "files": []
+              },
+              {
+                "text": "تضخيم الإشارة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "question_text": {
+              "text": "(مكرر) ما هي الصيغة الأكثر شيوعاً لحفظ الصور على الويب؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "DOCX",
+                "files": []
+              },
+              {
+                "text": "JPEG",
+                "files": []
+              },
+              {
+                "text": "MP4",
+                "files": []
+              },
+              {
+                "text": "PDF",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "question_text": {
+              "text": "(مكرر) ما هو العنصر المسؤول عن عرض الرسوميات ثلاثية الأبعاد؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "وحدة المعالجة المركزية (CPU)",
+                "files": []
+              },
+              {
+                "text": "وحدة معالجة الرسوميات (GPU)",
+                "files": []
+              },
+              {
+                "text": "ذاكرة الوصول العشوائي (RAM)",
+                "files": []
+              },
+              {
+                "text": "القرص الصلب (Hard Disk)",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "question_text": {
+              "text": "(مكرر) ما هو التشفير (Encryption)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "تحويل البيانات إلى شكل قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "تحويل البيانات إلى شكل غير قابل للقراءة",
+                "files": []
+              },
+              {
+                "text": "ضغط حجم الملفات",
+                "files": []
+              },
+              {
+                "text": "نقل البيانات عبر الشبكة",
+                "files": []
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "question_text": {
+              "text": "(مكرر) أي تطبيق يُستخدم لإنشاء عرض تقديمي (Presentation)؟",
+              "files": []
+            },
+            "question_type": "options",
+            "question_type_translation": "خيارات",
+            "options": [
+              {
+                "text": "Microsoft Word",
+                "files": []
+              },
+              {
+                "text": "Microsoft Excel",
+                "files": []
+              },
+              {
+                "text": "Microsoft Access",
+                "files": []
+              },
+              {
+                "text": "Microsoft PowerPoint",
+                "files": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
